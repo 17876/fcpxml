@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<super>
+   <qtcodec>
+      <codecname>Apple ProRes 422</codecname>
+      <codectypename>Apple ProRes 422</codectypename>
+      <codectypecode>apcn</codectypecode>
+      <codecvendorcode>appl</codecvendorcode>
+      <spatialquality>1024</spatialquality>
+      <temporalquality>0</temporalquality>
+      <keyframerate>0</keyframerate>
+      <datarate>0</datarate>
+   </qtcodec>
+</super>

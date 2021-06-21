@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<super>
+   <rate>
+      <timebase>33</timebase>
+      <ntsc>TRUE</ntsc>
+   </rate>
+</super>

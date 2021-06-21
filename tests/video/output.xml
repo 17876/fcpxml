@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<super>
+   <video>
+      <samplecharacteristics>
+         <rate>
+            <timebase>33</timebase>
+            <ntsc>FALSE</ntsc>
+         </rate>
+         <width>1920</width>
+         <height>1080</height>
+         <anamorphic>FALSE</anamorphic>
+         <pixelaspectratio>square</pixelaspectratio>
+         <fielddominance>none</fielddominance>
+      </samplecharacteristics>
+   </video>
+</super>

@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<super>
+   <format>
+      <samplecharacteristics>
+         <rate>
+            <timebase>33</timebase>
+            <ntsc>FALSE</ntsc>
+         </rate>
+         <codec>
+            <name>Apple ProRes 422</name>
+            <appspecificdata>
+               <appname>Final Cut Pro</appname>
+               <appmanufacturer>Apple Inc.</appmanufacturer>
+               <appversion>7.0</appversion>
+               <data>
+                  <qtcodec>
+                     <codecname>Apple ProRes 422</codecname>
+                     <codectypename>Apple ProRes 422</codectypename>
+                     <codectypecode>apcn</codectypecode>
+                     <codecvendorcode>appl</codecvendorcode>
+                     <spatialquality>1024</spatialquality>
+                     <temporalquality>0</temporalquality>
+                     <keyframerate>0</keyframerate>
+                     <datarate>0</datarate>
+                  </qtcodec>
+               </data>
+            </appspecificdata>
+         </codec>
+         <width>1920</width>
+         <height>1080</height>
+      </samplecharacteristics>
+   </format>
+</super>

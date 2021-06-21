@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<super>
+   <audio>
+      <samplecharacteristics>
+         <depth>16</depth>
+         <samplerate>48000</samplerate>
+      </samplecharacteristics>
+   </audio>
+</super>
